@@ -10,3 +10,27 @@ This project consists of creation of a help desk software, Peppermint, and the t
 <h2>Utilities Used</h2>
 
 - <b>Linode website</b>
+- <b>Peppermint application on Linode</b>
+
+<h2>Environments Used </h2>
+
+- <b>Linode website</b> 
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Go to the Linode Website and create a login: <br/>
+<img src="https://i.imgur.com/IdHCY42.png" alt="Go to the Linode Website and create a login"/>
+<br />
+<br />
+
+<p align="center">
+Once you create a login you'll be at the main dashboard: <br/>
+<img src="https://i.imgur.com/xnep9Wd.png" alt="Once you create a login you'll be at the main dashboard"/>
+<br />
+
+<p align="center">
+Now you want to create a Linode: <br/>
+<img src="https://i.imgur.com/xnep9Wd.png" alt="Create a Linode"/>
+<br />
+<br />
