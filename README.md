@@ -33,4 +33,8 @@ Once you create a login you'll be at the main dashboard: <br/>
 Now you want to create a Linode: <br/>
 <img src="https://i.imgur.com/xnep9Wd.png" alt="Create a Linode"/>
 <br />
+
+<p align="center">
+You'll want to choose what distribution you’ll want to use: <br/>
+<img src="https://i.imgur.com/sLoNRYi.jpeg" alt="You'll want to choose what distribution you’ll want to use"/>
 <br />
